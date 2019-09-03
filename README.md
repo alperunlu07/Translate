@@ -5,3 +5,5 @@ Basit bir mantık ile yapılmıştır. Uygulamanın geliştirilmesine katkıda b
 <br/>
 **An application that shows the translation of the copied word through notification on the PC. Made with simple logic.
 I would appreciate if you contribute to the development of the application.**
+
+https://yadi.sk/i/qvpAdvQIYCZ6qA
